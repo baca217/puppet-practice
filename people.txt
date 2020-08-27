@@ -1,0 +1,63 @@
+ebacahol
+Elmer Baca Holguin
+wheel","managers","sales","accounting
+
+mscott
+Micheal Scott
+managers
+
+dschrute
+Dwight Schrute
+managers
+
+jhalpert
+Jim Halpert
+managers
+
+pbeesly
+Pam Beesly
+
+
+abernard
+Andy Bernard
+sales
+
+amartin
+Angela Martin
+accounting
+
+kkapoor
+Kelly Kapoor
+
+
+omartinez
+Oscar Martinez
+accounting
+
+dphilbin
+Darryl Philbin
+
+
+tflenderson
+Toby Flenderson
+
+
+kmalone
+Kevin Malone
+accounting
+
+plapin
+Phyllis Lapin
+sales
+
+shudson
+Stanley Hudson
+sales
+
+mpalmer
+Meredith Palmer
+
+
+cbratton
+Creed Bratton
+
